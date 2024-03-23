@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&family=Tektur:wght@400;500;600;700&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;}
+
+body {
+    background-image: url('bg1.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    font-family: "Tektur", sans-serif;
+    line-height: 1.7;
+
+  }
+
+  h1 {
+
+    color: 	#4682B4;
+    padding-top: 20px;
+    margin-top: 40px;
+
+  }
+
+  label {
+    color: #BA55D3;
+  }
+
+  .btn {
+    padding: 9px 24px;
+    font-weight: 500;
+}
+
+
+.btn-brand {
+    color: black;
+    background-color: #3F51B5;
+    border-color: #3F51B5;
+    
+}
+
+.btn-brand:hover {
+    color: white;
+    background-color: #483D8B;
+}
+
+  
+  
+  #gameOutput {
+    color: white;
+    font-size: 1.5rem;
+  }
+
+  .congratulations {
+    color: #2E8B57;
+  }
+
+  .high {
+    color: #DC143C;
+  }
+  
+  .low {
+    color: 	#D2691E; 
+  }
+  
